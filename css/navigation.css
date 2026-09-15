@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .navigation-link {
   font-size: 9px;
   line-height: 130%;
@@ -6,3 +7,13 @@
   color: #fbfbfb;
   background: rgba(27, 65, 75, 0.5);
 }
+=======
+.navigation-link {
+  font-size: 9px;
+  line-height: 130%;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fbfbfb;
+  background: rgba(27, 65, 75, 0.5);
+}
+>>>>>>> 3369135101cff7c3c3f4d394b88d8f5708ac6b35

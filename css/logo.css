@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .logo {
   font-weight: 500;
   font-size: 20px;
@@ -5,3 +6,12 @@
   color: #1b414b;
   text-decoration: none;
 }
+=======
+.logo {
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: -0.03em;
+  color: #1b414b;
+  text-decoration: none;
+}
+>>>>>>> 3369135101cff7c3c3f4d394b88d8f5708ac6b35
