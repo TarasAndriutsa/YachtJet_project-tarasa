@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+.section {
+}
+.section-title {
+  font-weight: 500;
+  font-size: 48px;
+}
+#about .section-title {
+  color: #1b414b;
+}
+=======
+.section {
+}
+.section-title {
+  font-weight: 500;
+  font-size: 48px;
+  color: #1b414b;
+}
+>>>>>>> 3369135101cff7c3c3f4d394b88d8f5708ac6b35
