@@ -28,15 +28,13 @@
   color: #04030666;
 }
 
-.yacht-list-description {
-}
 .yacht-list-description-item {
   font-size: 14px;
   line-height: 1.18;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   /* opacity: 0.4; */
-  color: #04030666;
+  color: #040306;
 }
 
 .yacht-descr-inner {
@@ -44,5 +42,5 @@
   font-size: 14px;
   line-height: 1.18;
   letter-spacing: 0.03em;
-  color: #040306;
+  color: #04030666;
 }
