@@ -1,3 +1,11 @@
+.hero {
+  padding-top: 235px;
+  padding-bottom: 180px;
+  background-image: url(../images/yachts/front.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
 .hero-title {
   font-weight: 500;
   font-size: 80px;

@@ -1,0 +1,12 @@
+:root {
+  --white-c: #fbfbfb;
+  --text-opacity-50: #1b414b80;
+  --text-opacity-70: #fbfbfbf3;
+  --text-opacity-40: #04030666;
+  --black-blue: #0e1823;
+  --blac-text-c: #040306;
+  --header-bg: #1b414b80;
+  --footer-bg: rgba(251, 251, 251, 0.3);
+  /*FONT FAMILY*/
+  --font-family: 'inter', sans-serif;
+}
