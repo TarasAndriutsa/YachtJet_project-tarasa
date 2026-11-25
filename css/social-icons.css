@@ -1,0 +1,4 @@
+.header-container > .social-icons {
+  display: flex;
+  gap: 8px;
+}

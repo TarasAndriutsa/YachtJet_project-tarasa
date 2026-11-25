@@ -1,29 +1,50 @@
 .hero {
-  padding-top: 235px;
   padding-bottom: 180px;
-  background-image: url(../images/yachts/front.jpg);
+  padding-top: 235px;
+  background-image: url(../images/yachts/hero-baner.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+
+  /* За потреби розкоментуй рядок нижче, щоб фон стояв нерухомо при скролі: */
+  /* background-attachment: fixed; */
 }
 .hero-title {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
   font-weight: 500;
   font-size: 80px;
   text-align: center;
-  color: #fbfbfb;
+  color: var(--white-c);
+  margin-bottom: 24px;
 }
 .hero-text {
   font-weight: 300;
   font-size: 16px;
-  line-height: 1.38;
+  line-height: 1.4;
   text-align: center;
-  color: rgba(251, 251, 251, 0.7);
+  color: var(--text-opacity-70);
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 48px;
+  width: 600px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 .hero-link {
-  border-radius: 15px;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
   padding: 16px 40px;
-  width: 145px;
+  width: 180px;
+  font-size: 18px;
+  line-height: 1.1;
   height: 52px;
   color: inherit;
   background-color: #1b414b;
+  border-radius: 15px;
 }

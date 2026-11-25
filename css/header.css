@@ -1,3 +1,7 @@
-.social-icons {
-  display: flex;
+.header {
+  background-color: #fbfbfb;
+  position: absolute;
+  position: fixed;
+  width: 1240px;
+  margin: 0 auto;
 }
