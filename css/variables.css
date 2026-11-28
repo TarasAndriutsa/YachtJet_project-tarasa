@@ -1,10 +1,10 @@
 :root {
   --white-c: #fbfbfb;
-  --text-opacity-50: #1b414b80;
+  --accent-color: #1b414b80;
   --text-opacity-70: rgba(251, 251, 251, 0.7);
   --text-opacity-40: #04030666;
   --black-blue: #0e1823;
-  --blac-text-c: #040306;
+  --black-text: #040306;
   --header-nav-interactive: #1b414b80;
   --footer-bg: rgba(251, 251, 251, 0.3);
   /*FONT FAMILY*/

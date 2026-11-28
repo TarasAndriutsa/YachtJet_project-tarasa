@@ -1,13 +1,31 @@
-.ubaut-us-text {
+.about-inner-wrapper {
+  padding: 50px 50px 100px;
+}
+
+#about .about-wrapper {
+  border-radius: 24px;
+  background: #fbfbfb;
+  overflow: hidden;
+}
+.section-title {
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: var(--accent-color);
+}
+.ubaut-text {
   font-size: 23px;
   color: #1b414b;
 }
 .about-us-description {
   font-size: 13px;
   line-height: 1.15;
-  color: #040306;
+  color: var(--black-text);
   opacity: 0.4;
 }
-border-radius: 24px;
 width: 360px;
 height: 268px;
+
+width: 1340px;
+height: 675px;
